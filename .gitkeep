@@ -1,0 +1,4 @@
+# Windows (PowerShell)
+New-Item -ItemType File -Path backend/uploads/.gitkeep
+
+# Ou crie manualmente um arquivo vazio chamado .gitkeep dentro de backend/uploads/
